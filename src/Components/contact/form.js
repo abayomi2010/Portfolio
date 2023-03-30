@@ -14,7 +14,7 @@ const Form = () => {
                         <input class="w-100 m-1 p-1 border border-dark border-2 rounded" type="email" name="email" placeholder="E-mail*" id="form-box" required></input> <br></br>
                         <textarea class="w-100 m-1 p-1 border border-dark border-2 rounded" rows="10" type="text" name="message" placeholder="Message*" id="message-box" required></textarea> <br></br>
                         <div class="d-flex justify-content-start">
-                            <button type="submit" class="btn btn-warning btn-lg fw-bold m-1 p-1 border border-dark border-2 rounded">Let"s connect!</button>
+                            <button type="submit" class="btn btn-warning btn-lg fw-bold m-1 p-1 border border-dark border-2 rounded">Let's connect!</button>
                         </div>
                         <input type="hidden" name="_captcha" value="false"></input>
                     </form>

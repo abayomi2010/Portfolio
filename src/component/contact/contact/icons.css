@@ -1,0 +1,9 @@
+.icon {
+    height: 80px;
+    filter: grayscale(40%);
+}
+
+.icon:hover {
+    filter: grayscale(0%);
+    scale: 110%;
+}

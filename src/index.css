@@ -22,14 +22,18 @@ html {
   
 }
 *{
-  /* color: red; */
+  color: red;
 }
 
-h1, h2, h4{
+ h1, h2, h4{
   color: rgb(102, 102, 175);
 }
 
 
-h3, h5 {
-  color:beige
+h3{
+  color:rgb(252, 252, 250)
+} 
+
+h5{
+  color: rgb(96, 96, 238);
 }

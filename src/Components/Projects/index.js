@@ -17,7 +17,8 @@ const Projects = () => {
                             image={item.image}
                             stack1={item.stack[0]}
                             stack2={item.stack[1]}
-                            stack3={item.stack[2]} />
+                            stack3={item.stack[2]}
+                            link={item.link} />
                     })}
                 </div>
             </div>

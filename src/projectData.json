@@ -6,7 +6,8 @@
             "HTML",
             "CSS"
         ],
-        "image": "https://i.ibb.co/cvstjhL/film.png"
+        "image": "https://i.ibb.co/cvstjhL/film.png",
+        "link": "https://abayomi2010.github.io/The-Movie-Database/"
     },
     {
         "name": "Weather App",
@@ -15,7 +16,9 @@
             "HTML",
             "CSS"
         ],
-        "image": "https://i.ibb.co/sK02Mvh/weather.png"
+        "image": "https://i.ibb.co/sK02Mvh/weather.png",
+        "link": "https://jacwilalasey.github.io/The-Movie-Database/index.html"
+
     },
     {
         "name": "Team Profile Builder",
@@ -24,6 +27,8 @@
             "HTML",
             "CSS"
         ],
-        "image": "https://i.ibb.co/88ggXbJ/team.png"
+        "image": "https://i.ibb.co/88ggXbJ/team.png",
+        "link": "https://jacwilalasey.github.io/The-Movie-Database/index.html"
+
     }
 ]

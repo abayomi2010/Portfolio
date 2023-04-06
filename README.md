@@ -51,3 +51,6 @@ Contributions are welcome and appreciated. If you want to contribute to the proj
 ## Credits
 
 My React Portfolio was created by Abayomi Balogun using React and other open-source tools and libraries. Special thanks to the creators of the libraries and tools used in this project.
+
+## Deployment
+You can view a deployed version of this portfolio [here](https://react-portfolio1-ecru.vercel.app/)

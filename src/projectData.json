@@ -16,19 +16,19 @@
             "HTML",
             "CSS"
         ],
-        "image": "https://i.ibb.co/ZcHCfDV/weather.png",
+        "image": "https://i.ibb.co/HP32XMt/weather.png",
         "link": "https://github.com/abayomi2010/Weather-Dashboard"
 
     },
     {
-        "name": "Team Profile Builder",
+        "name": "Team Profile Generator",
         "stack": [
             "Node.js",
             "HTML",
             "CSS"
         ],
-        "image": "https://i.ibb.co/88ggXbJ/team.png",
-        "link": "https://jacwilalasey.github.io/The-Movie-Database/index.html"
+        "image": "https://i.ibb.co/SnvpYBG/Screenshot-38.png",
+        "link": "https://abayomi2010.github.io/Team-Profile-Generator/"
 
     }
 ]

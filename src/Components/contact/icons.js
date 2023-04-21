@@ -14,7 +14,7 @@ const Icons = () => {
                     <div class="col-3">
                     </div>
                     <div class="col-6 m-1 p-1 d-flex justify-content-center">
-                        <a href="https://www.linkedin.com/in/abayomi-balogun-300266115/" target="_blank" rel="noreferrer">
+                        <a href="https://www.linkedin.com/in/abayomibalogun/" target="_blank" rel="noreferrer">
                             <img class="icon m-1 p-1" src={linked} alt="LinkedIn"></img>
                         </a>
                         <a href="https://github.com/abayomi2010" target="_blank" rel="noreferrer">

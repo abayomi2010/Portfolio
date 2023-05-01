@@ -6,7 +6,7 @@ const Nav = () => {
         <nav class="navbar navbar-light m-2 p-2">
             <div class="container-fluid">
                 <button class="navbar-brand" href="../../images/IMG_0807.jpg">
-                    <img src="https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" height="50" class="d-inline-block align-text-top"></img>
+                    <img src="https://i.ibb.co/LQj2hPg/Untitled-design.png" alt="A copy of myself"  height= "350"></img>
 
                 </button>
             </div>

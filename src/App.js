@@ -1,6 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import Nav from './Components/Nav';
+// import Nav from './Components/Nav';
 import Home from './Components/Home';
 import Projects from './Components/Projects';
 import Contact from './Components/contact';
@@ -8,7 +8,7 @@ import Contact from './Components/contact';
 function App() {
   return (
     <div className="App">
-      <Nav />
+      {/* <Nav /> */}
       <Home />
       <Projects />
       <Contact />

@@ -10,9 +10,7 @@ const Icons = () => {
     return (
         <div>
             <div class="container">
-                <div class="row">
-                    <div class="col-3">
-                    </div>
+                <div class="row justify-content-center">
                     <div class="col-6 m-1 p-1 d-flex justify-content-center">
                         <a href="https://www.linkedin.com/in/abayomibalogun/" target="_blank" rel="noreferrer">
                             <img class="icon m-1 p-1" src={linked} alt="LinkedIn"></img>
@@ -27,8 +25,6 @@ const Icons = () => {
                             target="_blank">
                             <img class="icon m-1 p-1" src={cv} alt="CV"></img>
                         </a>
-                    </div>
-                    <div class="col-3">
                     </div>
                 </div>
 

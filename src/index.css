@@ -17,6 +17,7 @@ body {
 @media (max-width: 768px) {
   body {
     background-image: url('./images/arnold-francisca-f77Bh3inUpE-unsplash-small.jpg');
+    background-position: 70%;
   }
 }
 
@@ -24,13 +25,15 @@ body {
 @media (min-width: 769px) and (max-width: 992px) {
   body {
     background-image: url('./images/arnold-francisca-f77Bh3inUpE-unsplash-tablet.jpg');
+    background-position: 50%;
   }
 }
 
 /* Media query for screens larger than 992px (e.g., desktops) */
 @media (min-width: 993px) {
   body {
-    background-image: url('./');
+    background-image: url('./images/arnold-francisca-f77Bh3inUpE-unsplash-desktop.jpg');
+    background-position: 50%;
   }
 }
 
